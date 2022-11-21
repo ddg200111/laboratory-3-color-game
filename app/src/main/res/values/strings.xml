@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="game_rule">Чи збігається назва кольору ліворуч із кольором тексту праворуч?</string>
+    <string name="time">Час</string>
+    <string name="color_name">назва кольору</string>
+    <string name="color_text">колір тексту</string>
+    <string name="yes_b">Так</string>
+    <string name="no_b">Ні</string>
+    <string name="login">LOGIN</string>
+    <string name="login_b">login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="result">Ваш результат:</string>
+    <string name="correct">бали</string>
+    <string name="again">Знову</string>
+    <string name="exit">Вихід</string>
+    <string name="sign_up">Not yet registered? Sing up now</string>
+    <string name="points">0</string>
+    <string name="begin">Почати</string>
+    <string name="end">Вихід</string>
+</resources>
